@@ -36,6 +36,8 @@ Integrated Spectrum: Real-time audio visualizer on the main screen. <br>
 
 ----------------------------------------------------------------
 
-## Screenshots
+## Dark Theme
 <img width="1020" height="595" alt="dark_theme" src="https://github.com/user-attachments/assets/bd5c43d3-6dd8-4475-a76a-e24c144f8f3d" />
+
+## Light Theme
 <img width="1020" height="595" alt="light_theme" src="https://github.com/user-attachments/assets/9bbd69c4-0f1a-4695-85cc-8c2ba7d976f0" />
